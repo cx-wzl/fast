@@ -1,0 +1,13 @@
+{
+  "name": "fast",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "zero",
+  "license": "BSD",
+  "devDependencies": {
+    "rollup": "^2.70.2",
+    "rollup-plugin-typescript2": "^0.31.2",
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.3"
+  }
+}
